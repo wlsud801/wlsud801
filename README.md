@@ -1,12 +1,12 @@
 <img src="https://github.com/wlsud801/wlsud801/assets/128350568/a841769b-6b87-4085-8368-ffc62aeb27c2" alt="mainbanner">
 <div>
-  <h4>:sun_with_face: 안녕하세요!</h4>
+  <h3>:sun_with_face: 안녕하세요!</h3>
   <p>저는 웹퍼블리셔로 2년 동안 근무한 경험이 있으며,<br />
   프론트엔드 개발자로서의 새로운 도전을 시작한 :seedling:신입개발자 김진영입니다.</p>
 </div>
 
 <br />
- <h4>:evergreen_tree:STACKS</h4>
+ <h3>:evergreen_tree: STACKS</h3>
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
@@ -29,12 +29,12 @@
    <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </div>
 <br />
-<h4>:cactus:STUDYING</h4>
+<h3>:cactus:STUDYING</h3>
 <div>
   <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </div>
 <br />
- <h4>:leaves:GITHUB-STATS</h4>
+ <h3>:leaves: GITHUB-STATS</h3>
 <div>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlsud801&exclude_repo=wlsud801.github.io&layout=compact&theme=transparent" height="180em" />
@@ -44,7 +44,7 @@
 </a>
 </div>
 <br />
- <h4>:heartpulse:CONTACT</h4>
+ <h3>:heartpulse: CONTACT</h3>
  <div>
    <p>:email: Email: wlsud801@gmail.com</p>
    <p><a href="https://hamster801.tistory.com/">:computer:</a> Blog: https://hamster801.tistory.com/</p>
