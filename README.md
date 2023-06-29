@@ -37,10 +37,10 @@
  <h4>:leaves:GITHUB-STATS</h4>
 <div>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlsud801&exclude_repo=wlsud801.github.io&layout=compact&theme=transparent" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlsud801&exclude_repo=wlsud801.github.io&layout=compact&theme=transparent" height="180em" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=wlsud801&theme=transparent&show_icons=true" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wlsud801&theme=transparent&show_icons=true" height="180em" />
 </a>
 </div>
 <br />
