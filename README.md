@@ -1,8 +1,8 @@
+<img src="https://github.com/wlsud801/wlsud801/assets/128350568/f36a1f0c-e9a3-44a1-950d-d4282c9a40de" alt="mainbanner">
 <div>
-  <h4 style="display: inline-block">:sun_with_face: 안녕하세요!</h4>
-  <p style="display: inline-block;width: calc(100% - 200px);">저는 웹퍼블리셔로 2년 동안 근무한 경험이 있으며, <br />
+  <h4>:sun_with_face: 안녕하세요!</h4>
+  <p>저는 웹퍼블리셔로 2년 동안 근무한 경험이 있으며,
   최근에는 프론트엔드 개발자로서의 새로운 도전을 시작한 :seedling:신입개발자 김진영입니다.</p>
-  <img width="150" src="https://github.com/wlsud801/wlsud801/assets/128350568/edbb37c2-01fc-44ff-ad4f-17a0387e05c4" alt="profileImg" style="display: inline-block;">
 </div>
 
 <br />
@@ -44,10 +44,13 @@
 </a>
 </div>
 <br />
- <h4>:leaves:CONTACT</h4>
-<a href="https://hamster801.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=style=for-the-badge&logo=tistory&logoColor=white"/>https://hamster801.tistory.com</a>
-<img src="https://img.shields.io/badge/gmail-EA4335?style=style=for-the-badge&logo=gmail&logoColor=white"/>wlsud801@gmail.com
-<img src="https://img.shields.io/badge/kakaoTalk-FFCD00?style=style=for-the-badge&logo=kakao&logoColor=white"/>wlsdud08
+ <h4>:heartpulse:CONTACT</h4>
+ <div>
+   <p>:email: Email: wlsud801@gmail.com</p>
+   <p><a href="https://hamster801.tistory.com/">:computer:</a> Blog: https://hamster801.tistory.com/</p>
+   <p>:chocolate_bar: kakaoTalk: wlsdud08</p>
+ </div>
+
 
 
 
