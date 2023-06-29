@@ -42,7 +42,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=wlsud801&theme=transparent&show_icons=true" height="150px" />
 </a>
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlsud801)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlsud801)](https://github.com/wlsud801/github-readme-activity-graph)
 </div>
 <br />
  <h4>:heartpulse:CONTACT</h4>
