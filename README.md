@@ -1,4 +1,4 @@
-<img src="https://github.com/wlsud801/wlsud801/assets/128350568/f36a1f0c-e9a3-44a1-950d-d4282c9a40de" alt="mainbanner">
+<img src="https://github.com/wlsud801/wlsud801/assets/128350568/a841769b-6b87-4085-8368-ffc62aeb27c2" alt="mainbanner">
 <div>
   <h4>:sun_with_face: 안녕하세요!</h4>
   <p>저는 웹퍼블리셔로 2년 동안 근무한 경험이 있으며,
