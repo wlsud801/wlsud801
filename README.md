@@ -4,7 +4,7 @@
   <p>저는 웹퍼블리셔로 1년 6개월 동안 근무한 경험이 있으며,<br />
   프론트엔드 개발자로서의 새로운 도전을 시작한 :seedling:신입개발자 김진영입니다.</p>
 
-  <a href="https://docs.google.com/document/d/1X0ephGjKaHMpZf7Ipb-GLDwU914ukwezhI6ZezLF-Rg/edit?usp=sharing" title="김진영 이력서">:speech_balloon: 이력서 자세히 보기</a>
+  <a href="https://docs.google.com/document/d/1X0ephGjKaHMpZf7Ipb-GLDwU914ukwezhI6ZezLF-Rg/edit?usp=sharing" target="_blank" title="김진영 이력서">:speech_balloon: 이력서 자세히 보기</a>
 </div>
 
 <br />
