@@ -1,7 +1,7 @@
 <img src="https://github.com/wlsud801/wlsud801/assets/128350568/a841769b-6b87-4085-8368-ffc62aeb27c2" alt="mainbanner">
 <div>
   <h3>:sun_with_face: 안녕하세요!</h3>
-  <p>저는 웹퍼블리셔로 2년 동안 근무한 경험이 있으며,<br />
+  <p>저는 웹퍼블리셔로 1년 6개월 동안 근무한 경험이 있으며,<br />
   프론트엔드 개발자로서의 새로운 도전을 시작한 :seedling:신입개발자 김진영입니다.</p>
 </div>
 
