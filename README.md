@@ -1,8 +1,7 @@
-<img src="https://github.com/wlsud801/wlsud801/assets/128350568/a841769b-6b87-4085-8368-ffc62aeb27c2" alt="mainbanner">
 <div>
   <h3>:sun_with_face: 안녕하세요!</h3>
   <p>저는 웹퍼블리셔로 1년 6개월 동안 근무한 경험이 있으며,<br />
-  프론트엔드 개발자로서의 새로운 도전을 시작한 :seedling:신입개발자 김진영입니다.</p>
+  프론트엔드 개발자로는 3년차에 접어든 주니어 개발자 김진영입니다!</p>
 
   <a href="https://foremost-nyala-fc8.notion.site/UI-UX-740f8009c8ba49258516aabeb6801728?pvs=4" target="_blank" title="김진영 이력서">:speech_balloon: 이력서 자세히 보기</a>
 </div>
@@ -16,6 +15,7 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </div>
 <div>
+  <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-3474de?style=flat-square&logo=React&logoColor=3474de"/>
@@ -31,26 +31,10 @@
    <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </div>
 <br />
-<h3>:cactus:STUDYING</h3>
-<div>
-  <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-</div>
-<br />
- <h3>:leaves: GITHUB-STATS</h3>
-<div>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlsud801&exclude_repo=wlsud801.github.io&layout=compact&theme=transparent" height="180em" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=wlsud801&theme=transparent&show_icons=true" height="180em" />
-</a>
-</div>
-<br />
+
  <h3>:heartpulse: CONTACT</h3>
  <div>
    <p>:email: Email: wlsud801@gmail.com</p>
-   <p><a href="https://hamster801.tistory.com/">:computer:</a> Blog: https://hamster801.tistory.com/</p>
-   <p>:chocolate_bar: kakaoTalk: wlsdud08</p>
  </div>
 
 
