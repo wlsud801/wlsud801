@@ -3,7 +3,7 @@
   <p>저는 웹퍼블리셔로 1년 6개월 동안 근무한 경험이 있으며,<br />
   프론트엔드 개발자로는 3년차에 접어든 주니어 개발자 김진영입니다!</p>
 
-  <a href="https://foremost-nyala-fc8.notion.site/DX-20ae7f9ea517809bbeb7f4ff25f05fd5?source=copy_link" target="_blank" title="김진영 이력서">:speech_balloon: 이력서 자세히 보기</a>
+  <a href="https://www.figma.com/design/iB6ss7q1kFDvkruQ14X8Rd/%EA%B9%80%EC%A7%84%EC%98%81-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0-1&t=C5k3GviYTXTXwOMa-1" target="_blank" title="김진영 이력서">:speech_balloon: 이력서 자세히 보기</a>
 </div>
 
 <br />
